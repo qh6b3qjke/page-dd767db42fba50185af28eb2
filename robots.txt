@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.creamdatajc.com/sitemap.xml
